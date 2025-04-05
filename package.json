@@ -1,0 +1,11 @@
+{
+  "name": "virtual-event-manager-udevgotra",
+  "version": "1.0.0",
+  "description": "virtual event management project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Udhay",
+  "license": "ISC"
+}

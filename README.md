@@ -1,1 +1,0 @@
-# virtual-event-manager-udevgotra
